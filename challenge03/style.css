@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.container {
+    width: 80%;
+    background-color: #23424A;
+    margin-inline: auto;
+    padding: 5rem;
+}
+
+.container h1 {
+    width: 50%;
+    margin-block: 1rem;
+}
+
+.text {
+    width: 50%;
+    margin-block: 1rem;
+}
+
+button{
+    background-color: #38CFD9;
+    padding: 1rem;
+    padding-inline: 2rem;
+    border: none;
+    color: black;
+    border-radius: 50px;
+    font-size: 21px;
+}
